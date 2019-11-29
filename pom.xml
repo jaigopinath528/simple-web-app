@@ -143,13 +143,7 @@
 	            </exclusions>
         	</dependency>
 	</dependencies>
-	<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>DESKTOP-KPIRKO0-releases</name>
-        <url>http://192.168.1.108:8081/artifactory/libs-release-local</url>
-    </repository>
-</distributionManagement>
+	
 	<build>
 		<plugins>
 			<plugin>
